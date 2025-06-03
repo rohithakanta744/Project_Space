@@ -8,6 +8,7 @@ const TuitionJobs = () => {
   let sidebarControl = () => {
     setSidebarActive(!sidebarActive);
   };
+  //hi
   return (
     <section
       className='course-list-view py-120 background-img bg-img'

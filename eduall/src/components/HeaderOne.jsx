@@ -62,17 +62,19 @@ const HeaderOne = () => {
   };
 
   const menuItems = [
-    {
-      label: "Home",
-      links: [
-        { to: "/", label: "Home LMS" },
-        { to: "/index-2", label: "Home Online Course" },
-        { to: "/index-3", label: "Home University" },
-        { to: "/index-4", label: "Home Tutor" },
-        { to: "/index-5", label: "Home Kindergarten" },
-        { to: "/index-6", label: " Home Kindergarten two" },
-      ],
-    },
+    // {
+    //   label: "Home",
+    //   links: [
+    //     { to: "/index-2", label: "Home" },
+    //     { to: "/", label: "Home LMS" },
+    //     { to: "/index-2", label: "Home Online Course" },
+    //     { to: "/index-3", label: "Home University" },
+    //     { to: "/index-4", label: "Home Tutor" },
+    //     { to: "/index-5", label: "Home Kindergarten" },
+    //     { to: "/index-6", label: " Home Kindergarten two" },
+    //   ],
+    // },
+    { to: "/index-2", label: "Home" },
     {
       label: "Courses",
       links: [

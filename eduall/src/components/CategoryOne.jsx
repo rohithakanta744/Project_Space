@@ -53,8 +53,9 @@ const CategoryOne = () => {
             Elevate Your Learning Experience
           </h2>
           <p className=' wow bounceInUp'>
-            Our platform is built on the principles of innovation, quality, and
-            inclusivity, aiming to provide a seamless learning
+            {/* Our platform is built on the principles of innovation, quality, and
+            inclusivity, aiming to provide a seamless guidance */}
+            At InspireHub, we believe in innovation, learning, and inclusivity  delivering expert guidance for every learner’s tech journey.
           </p>
         </div>
         <Slider ref={sliderRef} {...settings} className='category-item-slider'>

@@ -81,7 +81,8 @@ const BannerTwo = () => {
           <div className='col-xl-6'>
             <div className='banner-thumb position-relative'>
               <img
-                src='assets/images/thumbs/banner-img-2.png'
+                // src='assets/images/thumbs/banner-img-2.png'
+                src='assets/images/thumbs/homebanner.jpg'
                 alt=''
                 className='banner-thumb__img rounded-12'
                 data-aos='fade-up'

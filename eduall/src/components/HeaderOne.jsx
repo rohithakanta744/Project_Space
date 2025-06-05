@@ -74,7 +74,8 @@ const HeaderOne = () => {
     //     { to: "/index-6", label: " Home Kindergarten two" },
     //   ],
     // },
-    { to: "/index-2", label: "Home" },
+    // // { to: "/index-2", label: "Home" },
+    { to: "/", label: "Home" },
     {
       label: "Courses",
       links: [

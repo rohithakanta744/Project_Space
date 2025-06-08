@@ -34,13 +34,13 @@ const TestimonialsTwo = () => {
               <i className='ph-bold ph-book' />
             </span>
             <h5 className='text-main-600 mb-0'>
-              Testimonials from Happy Learners
+              {/* Testimonials from Happy Learners */}
+              Voices from Our InspireHub Learners
             </h5>
           </div>
-          <h2 className='mb-24 wow bounceIn'>What Our Students Say</h2>
+          <h2 className='mb-24 wow bounceIn'>What Our Learners Are Saying</h2>
           <p className=' wow bounceInUp'>
-            Our students' success stories speak volumes. Here are just a few
-            testimonials from our satisfied learners
+            Stories from our thriving community of learners who are growing through shared experiences and knowledge.
           </p>
         </div>
         <Slider
@@ -71,9 +71,8 @@ const TestimonialsTwo = () => {
               </li>
             </ul>
             <p className='text-neutral-700 text-xl'>
-              "I've taken several courses through, and each one has exceeded my
-              expectations. I've gained valuable skills that have helped me
-              advance in my career. Highly recommend!"
+              "Exploring InspireHub has been a game-changer for me. The posts shared by instructors are insightful and practical 
+               I’ve picked up skills that actually matter in real-world projects. Definitely a space I keep coming back to"
             </p>
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
@@ -115,9 +114,9 @@ const TestimonialsTwo = () => {
               </li>
             </ul>
             <p className='text-neutral-700 text-xl'>
-              "I was initially skeptical about online learning, but changed my
-              perspective completely. The courses are well-designed, and the
-              flexibility to learn at my own pace is invaluable."
+              "I wasn’t sure what to expect at first, but InspireHub changed how I see learning. The freedom
+               to explore topics at my own pace,and connect with experienced learners, makes it 
+               an amazing platform!"
             </p>
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
@@ -159,9 +158,12 @@ const TestimonialsTwo = () => {
               </li>
             </ul>
             <p className='text-neutral-700 text-xl'>
-              "I was at first doubtful about web based learning, yet adjusted my
+              {/* "I was at first doubtful about web based learning, yet adjusted my
               viewpoint totally. The courses are very much planned to learn at
-              my own speed is important."
+              my own speed is important." */}
+              "I was initially doubtful about online learning, but InspireHub completely changed my perspective.
+               The posts are shared by experienced instructors, and the freedom to 
+               explore them at my own pace is truly empowering"
             </p>
             <div className='flex-between gap-24 flex-wrap pt-28 mt-28 border-top border-neutral-50 mt-28 border-dashed border-0'>
               <div className='flex-align gap-24 '>
